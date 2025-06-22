@@ -1,8 +1,8 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Songmory's blog"
+description: "Songmory的杂乱手账"
 
-avatar: https://pianfan.github.io/images/avatar.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://songmory.github.io/images/20250621160454.jpg
+favicon: https://songmory.github.io/images/qnr79-imuor-001.ico
 
 navigation:
   - name: 首页
@@ -18,22 +18,22 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: blog.334486.xyz
   facebook:
-  github: pianfan
+  github: songmory
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2025 songmory
 
-url: https://pianfan.github.io
+url: https://songmory.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
 
 # The release of Jekyll Now
-version: v1.2.0
+version: v0.0.1
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
