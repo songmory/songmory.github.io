@@ -1,13 +1,10 @@
-
 ---
 layout: post
 title: "致路过我世界的你"
-date: 2025-06-21  
-tags: [相遇][notice]
-comments: true  
-author: songmory  
----
-
+date:   2025-6-21
+tags: [notice][相遇]
+comments: true
+author: songmory
 ---
 
 ### 🌼 **写在晨光里的小邀请**  
