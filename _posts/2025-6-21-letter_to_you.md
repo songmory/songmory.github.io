@@ -53,8 +53,3 @@ author: songmory
 ### 此文案由AI生成。
 ```html
 
-<!-- 可自由替换的温暖元素 -->
-<img src="/images/tea-cup.png" class="floating" alt="漂浮的茶杯"> 
-<blockquote style="background:url('/paper-texture.jpg')">  <!-- 宣纸背景 -->
-  当前天气：<span class="weather">☔️</span>  <!-- 手动添加天气符号 -->
-</blockquote>
